@@ -1,5 +1,5 @@
 # ATSP-Project
-TODO:
+TODO: \
   [ ] Comments aan code toegevoegd \
   [ ] Laplacian ruis toegevoegd \
   [ ] Lees de paper over homomorphic encryption voor deep leakage \
